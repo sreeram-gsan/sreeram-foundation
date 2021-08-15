@@ -2,11 +2,13 @@
 template: index-page
 slug: /
 title: Sreeram Ganesan
-tagline: Software Engineer
+tagline: MS CS @ CU Boulder | Ex-Oracle
 
 featuredImage: /assets/sreeram.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-I am a Software Engineer at Oracle, interested in architecting and developing cloud-native web applications. In recent days I have developed an inclination towards machine learning and developing software applications that help us make smarter, more data-driven decisions.
+Hello! I am a Master's student at CU Boulder pursuing Computer Science. Before joining CU, I worked as a Software Engineer at Oracle for 3.5 years. 
+
+I have experience in architecting and developing enterprise-level applications. Cloud Computing, Systems Design and Backend Development are my areas of interest.
